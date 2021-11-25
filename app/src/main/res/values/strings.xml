@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Sholat&amp;doa</string>
+    <string name="iftitah1">اَللهُ اَكْبَرْكَبِيْرًا وَاْلحَمْدُ لِلهِ كَشِيْرًا وَسُبْحَانَ للهِ بُكْرَةً وَاَ صِيْلَا</string>
+    <string name="iftitah2">اِنِّيْ وَجَّهْتُ وَجْهِيَ لِلَّذِيْ فَطَرَ السَّمَوَاتِ وَاْلاَرْضِ حَنِيْفًامٌسْلِمًاوَمَ اَنَامِنَ اْلمُشْرِكِيْنَا</string>
+    <string name="iftitah3">ااِنَّ صَلَا تِيْ وَنُسُكِيْ وَمَحْيَايَ وَمَمَا تِيْ لِلَّهِ رَبِّ اْلعَالَمِيْنَ لَاشَرِيْكَ لَهُ وَبِذَ لِكَ اُمِرْ تُ وَاَنَامِنَ</string>
+    <string name="iftitah4">اْلمُسْلِمِيْنَا</string>
+    <string name="alfatihah">بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْمِ
+الْحَمْدُ للهِ رَبِّ الْعَالَمِيْنَ, الرَّحْمَـنِ الرَّحِيْمِ, مَالِكِ يَوْمِ الدِّيْنِ, إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ, اِهْدِنَا الصِّرَاطَ المُستَقِيْمَ,
+صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيهِمْ, غَيْرِ المَغْضُوْبِ عَلَيْهِمْ وَلاَ الضَّالِّيْنَ. آمِيْنَ
+</string>
+    <string name="artiftitah">" Allah Maha Besar lagi Sempurna Kebesaran-Nya, segala puji bagi-Nya dan Maha Suci Allah sepanjang pagi dan sore. Kuhadapkan muka hatiku kepada Dzat yang menciptakan langit dan bumi dengan keadaan lurus dan menyerahkan diri dan aku bukanlah dari golongan kaum musyirikin. Sesungguhnya shalatku, ibadatku, hidupku dan matiku semata hanya untuk Allah, Tuhan seru sekalian alam. Tidak ada sekutu bagi-Nya dan dengan itu aku diperintahkan untuk tidak menyekutukan-Nya. Dan aku dari golongan orang muslimin."</string>
+    <string name="artalfatihah">"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang Segala puji bagi Allah, Tuhan seru sekalian alam Yang Pengasih dan Penyayang Yang menguasai hari kemudian Pada-Mulah aku mengabdi dan kepada-Mulah aku meminta pertolongan Tunjukilah kami ke jalan yang lurus Bagaikan jalan mereka yang telah Engkau beri nikmat Bukan jalan mereka yang pernah Engkau murkai, atau jalannya orang-orang yang sesat."</string>
+    <string name="alikhlas">بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ قُلْ هُوَ ٱللهُ أَحَدٌ, ٱللهُ ٱلصَّمَدُ, لَمْ يَلِدْ وَلَمْ يُولَدْ, وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌ</string>
+    <string name="artalikhlas">"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.Katakanlah (hai Muhammad)! Allah itu Esa. Allah tempat meminta. Tiada Ia beranak dan tiada pula Ia dilahirkan. Dan tak ada bagi-Nya seorang pun yang menyerupai-Nya.Dan tak ada bagi-Nya seorang pun yang menyerupai-Nya."</string>
+    <string name="ruku">سُبْحَانَ رَبِّىَ الْعَظِيمِ وَبِحَمْدِهِ</string>
+    <string name="artruku"> "Mahasuci Tuhanku yang Mahaagung dan segala puji baginya."</string>
+    <string name="itidal">سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ
+رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَوَاتِ وَالأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَىْءٍ بَعْدُ</string>
+    <string name="artitidal">"Allah Maha Mendengar orang yang memujinya. Wahai Tuhan kami, segala puji bagiMu, sepenuh langit dan sepenuh bumi dan sepenuh apa-apa yang Engkau kehendaki setelah itu"</string>
+    <string name="sujud">سُبْحَانَ رَبِّىَ الْأَعْلَى وَبِحَمْدِهِ</string>
+    <string name="artsujud">"Mahasuci Tuhanku yang Mahatinggi dan segala puji bagiNya" (3x)</string>
+    <string name="duduk">رَبِّ اغْفِرْ لِى وَارْحَمْنِى وَاجْبُرْنِى وَارْزُقْنِى وَارْفَعْنِى</string>
+    <string name="artduduk">"Ya Allah, ampunilah aku, kasihanilah aku, penuhilahkebutuhanku, berilah aku petunjuk dan tingikanlah aku."</string>
+    <string name="tahawal">التَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلَّهِ السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِىُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ</string>
+    <string name="arttawal">"Segala penghormatan, keberkahan, shalawat dan kebaikan hanya bagi Allah. Semoga salam sejahtera selalu tercurahkan kepadamu wahai Nabi, demikian pula rahmat Allah dan berkahNya dan semoga salam sejahtera selalu tercurah kepada kami dan hamba-hamba Allah yang shalih. Aku bersaksi bahwa tiada ilah kecuali Allah dan aku bersaksi bahwa Muhammad adalah utusan Allah"</string>
+    <string name="takhir">التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ ، السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِىُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ ، السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ ، أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ
+اَللَّهُمَّ صَلِّ عَلىَ مُحَمَّدٍ وَعَلىَ آلِ مُحَمَّدٍ كَماَ صَلَّيْتَ عَلىَ إِبْرَاهِيْمَ وَعَلىَ آلِ إِبْرَاهِيْمَ إِنـَّكَ حَمِيْدٌ مَجِيْدٌ اَللَّهُمَّ باَرِكْ عَلىَ مُحَمَّدٍ وَعَلىَ آلِ مُحَمَّدٍ كَماَ باَرَكْتَ عَلىَ إِبْرَاهِيْمَ وَعَلىَ آلِ إِبْرَاهِيْمَ إِنـَّكَ حَمِيْدٌ مَجِيْدٌ</string>
+    <string name="arttakhir">"Segala penghormatan, shalawat dan kebaikan-kebaikan hanya bagi Allah. Semoga salam sejahtera selalu tercurahkan kepadamu wahai Nabi, demikian pula rahmat Allah dan berkahNya dan semoga salam sejahtera selalu tercurah kepada kami dan hamba-hamba Allah yang shalih. Aku bersaksi bahwa tiada ilah kecuali Allah dan aku bersaksi bahwa Muhammad adalah hamba dan rasulNya. (HR. Bukhari dan Muslim). Ya Allah, berilah rahmat kepada Nabi Muhammad dan keluarga Nabi Muhammad sebagaimana Engkau telah memberikan rahmat kepada Nabi Ibrahim dan keluarga Nabi Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah, berilah keberkahan kepada Nabi Muhammad dan keluarga Nabi Muhammad sebagaimana Engkau telah memberikan keberkahan kepada Nabi Ibrahim dan keluarga Nabi Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia."</string>
+    <string name="salam">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَ بَرَكَاتُهُ</string>
+    <string name="artsalam">"Semoga keselamatan rahmat Allah dan berkahNya limpahkan kepada kalian"</string>
+
+</resources>
